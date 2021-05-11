@@ -1,0 +1,36 @@
+<div >
+    <mat-toolbar style="background-color: #b380ff; color: white; " >Product List</mat-toolbar><br>
+<div
+  fxLayout="row wrap"
+  fxLayoutGap="32px"
+  fxLayoutAlign="flex-start"
+  fxLayoutGap="20px grid"
+>
+
+  <div *ngFor="let product of dataSource">
+    <section class="darts-dark-theme">
+      <mat-card class="product-card" style="width: 400px">
+        <img
+          height="200px"
+          mat-card-image
+          src="{{ product.image }}"
+          alt="Photo"
+        />
+        <mat-card-title>{{ product.productName }}</mat-card-title>
+        <mat-card-content>
+          <p>{{ product.productDescription }}</p>
+          <div style="cursor: pointer;" >    
+              <a (click)="goToProductDetail(product.productUrl)" >
+                <p>To know more</p>      
+            <span>
+              <mat-icon>trending_flat</mat-icon>
+            </span>
+        </a>
+          </div>
+        </mat-card-content>
+      </mat-card>
+    </section>
+  </div>
+</div>
+</div>
+

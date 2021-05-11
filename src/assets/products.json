@@ -1,0 +1,61 @@
+{
+    "products": [
+        {
+            "productId": 5456312,
+            "productName": "Individual Life",
+            "productDescription": "Solutions that create real value and grow relationships",
+            "image": "https://www.munichre.com/content/dam/munichre/marc/images/New%20Realities.png/_jcr_content/renditions/cropped.3_to_1.png./cropped.3_to_1.png",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/individual-life.html"
+        },
+        {
+            "productId": 5456313,
+            "productName": "Group Insurance",
+            "productDescription": "Progressing ahead of the industry to help our clients expand insurability and grow profitability",
+            "image": "https://www.munichre.com/content/dam/munichre/marc/images/iStock-626582868-family-parents-child-reading.jpg/_jcr_content/renditions/cropped.16_to_9.jpg.image_file.1920.1080.file/cropped.16_to_9.jpg",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/group-insurance.html"
+        },
+        {
+            "productId": 5456314,
+            "productName": "Individual Disability",
+            "productDescription": "Our specialists in risk selection and management create innovates solutions to industry challenges",
+            "image": "https://static1.st8fm.com/en_US/img/si/750/the-individual-need-for-disability-insurance-750x421.jpg",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/individual-disability.html"
+        },
+        {
+            "productId": 5456315,
+            "productName": "Financial Reinsurance",
+            "productDescription": "We excel at problem solving and have a track record of doing innovative transaction that meet strategic and financial objectives.",
+            "image": "https://www.munichre.com/content/dam/munichre/marc/images/Financial%20Reinsurance.png/_jcr_content/renditions/cropped.3_to_1.png./cropped.3_to_1.png",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/financial-reinsurance.html"
+
+        },
+        {
+            "productId": 5456316,
+            "productName": "Underwriting & Medical",
+            "productDescription": "We are proud to offer out customers options that support sound risk assessment techniques",
+            "image": "https://i-brokers.com/wp-content/uploads/2020/11/full-medical-underwriting.jpg",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/underwriting-and-medical.html"
+        },
+        {
+            "productId": 5456317,
+            "productName": "Integrated Analytics",
+            "productDescription": "Transformative solutions for assesing and managing life insurance risk",
+            "image": "https://www.munichre.com/content/dam/munichre/marc/images/MARC%20Data_003.jpg/_jcr_content/renditions/cropped.3_to_1.jpg.image_file.2560.853.file/cropped.3_to_1.jpg",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/integrated-analytics.html"
+        },
+        {
+            "productId": 5456318,
+            "productName": "Term Life Insurance",
+            "productDescription": "A Term Life Insurance or Term Protection plan brings you life insurance over an agreed term. If you die or become ill during this term, your family will be provided for financially.",
+            "image": "https://assets-eu-01.kc-usercontent.com/ffd8d21b-ebd4-0151-55d5-297335c8f50f/4b37d342-5465-456d-af99-aa367cd8f169/iStock-528474010.png?auto=format&w=552&dpr=2",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/individual-life.html"
+        },
+        {
+            "productId": 5456319,
+            "productName": "Serious Illness Cover",
+            "productDescription": "People are living longer than ever before. As a result, the chance of being diagnosed with a serious illness at some point in your life is greater.",
+            "image": "https://onequote.ie/wp-content/uploads/2017/04/Guide-To-Serious-Illness-Cover.jpg",
+            "productUrl": "https://www.munichre.com/us-life/en/solutions/individual-life.html"
+        }
+    ]
+}
